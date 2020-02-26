@@ -1,0 +1,5 @@
+/.ipynb_checkpoints/*
+/MNIST
+MNIST.py
+/sample_data/*
+/MNIST/
